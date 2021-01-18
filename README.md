@@ -9,4 +9,6 @@
 #### The file are in the status are tracked by the remote repository are changes can be committed
 
 ##COMMIT
-#### The file in the stage are permanant and ready to  push to the Repository`
+#### The file in the stage are permanant and ready to  push to the Repository
+
+We are looking to merge and resolve the conflicts`
