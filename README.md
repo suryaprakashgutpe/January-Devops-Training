@@ -11,4 +11,5 @@
 ##COMMIT
 #### The file in the stage are permanant and ready to  push to the Repository
 
-We are looking to merge and resolve the conflicts by linux user`
+
+We are looking to merge and resolve the conflicts by linux and windows user`
